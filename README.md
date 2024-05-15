@@ -3,3 +3,5 @@
  - NIM  : 312210285
  - KELAS: TI.22.C1
  - 
+LINK PDF MAKALAH :
+https://drive.google.com/file/d/1eEDs1xOJMHNx7FgL3tJlwQQrrL8R-T6M/view?usp=sharing
